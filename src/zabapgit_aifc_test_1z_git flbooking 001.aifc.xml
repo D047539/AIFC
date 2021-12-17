@@ -4,7 +4,6 @@
   <asx:values>
    <_-AIF_-T_ACT>
     <_-AIF_-T_ACT>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFACTION>FLBOOKING_CREATE</IFACTION>
      <COMMITFLAG>W</COMMITFLAG>
@@ -14,7 +13,6 @@
    </_-AIF_-T_ACT>
    <_-AIF_-T_ACTT>
     <_-AIF_-T_ACTT>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFACTION>FLBOOKING_CREATE</IFACTION>
      <SPRAS>E</SPRAS>
@@ -23,7 +21,6 @@
    </_-AIF_-T_ACTT>
    <_-AIF_-T_CHECK>
     <_-AIF_-T_CHECK>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <AIFCHECK>CLASS_VALID</AIFCHECK>
      <MSGID_E>/AIF/TEST_AIF</MSGID_E>
@@ -34,7 +31,6 @@
    </_-AIF_-T_CHECK>
    <_-AIF_-T_CHECKT>
     <_-AIF_-T_CHECKT>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <AIFCHECK>CLASS_VALID</AIFCHECK>
      <LANG>E</LANG>
@@ -43,7 +39,6 @@
    </_-AIF_-T_CHECKT>
    <_-AIF_-T_FINF>
     <_-AIF_-T_FINF>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -57,7 +52,6 @@
    </_-AIF_-T_FINF>
    <_-AIF_-T_FINFT>
     <_-AIF_-T_FINFT>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -65,7 +59,6 @@
      <IFDESC>Flugbuchung</IFDESC>
     </_-AIF_-T_FINFT>
     <_-AIF_-T_FINFT>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -75,7 +68,6 @@
    </_-AIF_-T_FINFT>
    <_-AIF_-T_FMAP>
     <_-AIF_-T_FMAP>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -86,7 +78,6 @@
      <VMAPNAME>CARRID_TO_CLASS</VMAPNAME>
     </_-AIF_-T_FMAP>
     <_-AIF_-T_FMAP>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -95,7 +86,6 @@
      <SAP_FIELDNAME1>AGENCY</SAP_FIELDNAME1>
     </_-AIF_-T_FMAP>
     <_-AIF_-T_FMAP>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -104,7 +94,6 @@
      <SAP_FIELDNAME1>CARRID</SAP_FIELDNAME1>
     </_-AIF_-T_FMAP>
     <_-AIF_-T_FMAP>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -113,7 +102,6 @@
      <SAP_FIELDNAME1>CONNID</SAP_FIELDNAME1>
     </_-AIF_-T_FMAP>
     <_-AIF_-T_FMAP>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -122,7 +110,6 @@
      <SAP_FIELDNAME1>CUSTOMER</SAP_FIELDNAME1>
     </_-AIF_-T_FMAP>
     <_-AIF_-T_FMAP>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -133,7 +120,6 @@
    </_-AIF_-T_FMAP>
    <_-AIF_-T_FUNC>
     <_-AIF_-T_FUNC>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFACTION>FLBOOKING_CREATE</IFACTION>
      <FUNCNR>010</FUNCNR>
@@ -142,7 +128,6 @@
    </_-AIF_-T_FUNC>
    <_-AIF_-T_IFACT>
     <_-AIF_-T_IFACT>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -153,7 +138,6 @@
    </_-AIF_-T_IFACT>
    <_-AIF_-T_INF_AUTH>
     <_-AIF_-T_INF_AUTH>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -163,7 +147,6 @@
    </_-AIF_-T_INF_AUTH>
    <_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -178,7 +161,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -192,7 +174,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -206,7 +187,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -220,7 +200,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -233,7 +212,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -247,7 +225,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -261,7 +238,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -275,7 +251,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -289,7 +264,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -303,7 +277,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -317,7 +290,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -331,7 +303,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -345,7 +316,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -359,7 +329,6 @@
      <RAW_OR_SAP>S</RAW_OR_SAP>
     </_-AIF_-T_INF_KFLDS>
     <_-AIF_-T_INF_KFLDS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -375,7 +344,6 @@
    </_-AIF_-T_INF_KFLDS>
    <_-AIF_-T_INF_TBL>
     <_-AIF_-T_INF_TBL>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVER>0001</IFVER>
@@ -386,7 +354,6 @@
    </_-AIF_-T_INF_TBL>
    <_-AIF_-T_INTREC>
     <_-AIF_-T_INTREC>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -394,13 +361,11 @@
    </_-AIF_-T_INTREC>
    <_-AIF_-T_NS>
     <_-AIF_-T_NS>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
     </_-AIF_-T_NS>
    </_-AIF_-T_NS>
    <_-AIF_-T_NST>
     <_-AIF_-T_NST>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <SPRAS>E</SPRAS>
      <NSTX>abapGit in YTT</NSTX>
@@ -408,7 +373,6 @@
    </_-AIF_-T_NST>
    <_-AIF_-T_SMAP>
     <_-AIF_-T_SMAP>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <IFNAME>FLBOOKING</IFNAME>
      <IFVERSION>0001</IFVERSION>
@@ -417,7 +381,6 @@
    </_-AIF_-T_SMAP>
    <_-AIF_-T_TABCHK>
     <_-AIF_-T_TABCHK>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <AIFCHECK>CLASS_VALID</AIFCHECK>
      <CHECKNR>001</CHECKNR>
@@ -426,7 +389,6 @@
    </_-AIF_-T_TABCHK>
    <_-AIF_-T_TABCHKT>
     <_-AIF_-T_TABCHKT>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <AIFCHECK>CLASS_VALID</AIFCHECK>
      <CHECKNR>001</CHECKNR>
@@ -435,7 +397,6 @@
    </_-AIF_-T_TABCHKT>
    <_-AIF_-T_VMAP>
     <_-AIF_-T_VMAP>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <VMAPNAME>CARRID_TO_CLASS</VMAPNAME>
      <DEFAULTVALUE>Y</DEFAULTVALUE>
@@ -452,7 +413,6 @@
    </_-AIF_-T_VMAP>
    <_-AIF_-T_VMAPT>
     <_-AIF_-T_VMAPT>
-     <MANDT>000</MANDT>
      <NS>Z_GIT</NS>
      <VMAPNAME>CARRID_TO_CLASS</VMAPNAME>
      <SPRAS>E</SPRAS>
